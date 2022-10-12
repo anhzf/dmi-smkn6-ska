@@ -21,3 +21,6 @@
 ### CSS
 - https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
 - https://www.w3schools.com/css/default.asp
+
+## Lain-lain
+- https://whatsapp-sender-oagaov4pgq-uc.a.run.app/
