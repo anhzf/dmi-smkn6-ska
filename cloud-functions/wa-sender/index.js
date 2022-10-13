@@ -4,7 +4,8 @@ const functions = require('@google-cloud/functions-framework');
 functions.http('waSender', (req, res) => {
   if (req.method === 'POST') {
     const { phoneNumber, ...data } = req.body
-    const message = Object.entries(data).map(([key, value]) => `${key}: ${value}`).join('\r')
+    const message = Object.entries(data).map(([key, value]) => `${key}: ${value}`).join(`
+`)
     res.redirect(`https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`)
   }
 
