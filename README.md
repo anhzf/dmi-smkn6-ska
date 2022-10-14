@@ -13,6 +13,7 @@
 ## Link Modul
 - [HTML Esensial 2](https://drive.google.com/file/d/1eT0YHOoQzZ0G27be0LvIJ0A0pILPhcKt/view?usp=sharing)
 - [HTML Esensial 3](https://drive.google.com/file/d/1EkHHo4hJjmx1E_CLBPX9b1u_g9mq1peY/view?usp=sharing)
+- [CSS Esensial 1](https://drive.google.com/file/d/1dcZt60Nzm8PVz8Z1a2zLaATW1x4jW1te/view?usp=sharing)
 
 ## Referensi Belajar
 ### HTML
